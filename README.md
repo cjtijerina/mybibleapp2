@@ -1,1 +1,1 @@
-# mybibleapp2
+# myBibleApp2
